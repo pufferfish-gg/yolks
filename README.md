@@ -97,7 +97,8 @@ is tagged correctly.
     * `ghcr.io/pterodactyl/yolks:python_3.9`
   * [`python3.10`](https://github.com/pterodactyl/yolks/tree/master/python/3.10)
     * `ghcr.io/pterodactyl/yolks:python_3.10`
-
+  * [`python3.11`](https://github.com/pterodactyl/yolks/tree/master/python/3.11)
+    * `ghcr.io/pterodactyl/yolks:python_3.11`
 ### Installation Images
 
 * [`alpine-install`](https://github.com/pterodactyl/yolks/tree/master/installers/alpine)
